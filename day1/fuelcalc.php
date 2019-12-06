@@ -111,6 +111,7 @@ $fuel_a = array_map(function ($val) {
     $fuel_fuel = $fuel;
     while (floor(floatval($fuel_fuel)/3)-2 > 0) {
         $fuel_fuel = floor(floatval($fuel_fuel)/3)-2;
+        $fuel += $fuel_fuel;
     }
     return $fuel;
 }, $input_a);
