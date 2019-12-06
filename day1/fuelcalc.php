@@ -101,12 +101,17 @@ $input = '80891
 143169
 125521';
 
-$input_a = explode("\r\n", $input);
-$input_a = array_map(function ($val) {
+$input_array = explode("\r\n", $input);
+$input_array = array_map(function ($val) {
     return intval($val);
-}, $input_a);
+}, $input_array);
 
 $fuel_a = array_map(function ($val) {
+    $fuel = floor(floatval($val)/3)-2;
+    return $fuel;
+}, $input_array);
+
+$fuel_b = array_map(function ($val) {
     $fuel = floor(floatval($val)/3)-2;
     $fuel_fuel = $fuel;
     while (floor(floatval($fuel_fuel)/3)-2 > 0) {
@@ -114,8 +119,10 @@ $fuel_a = array_map(function ($val) {
         $fuel += $fuel_fuel;
     }
     return $fuel;
-}, $input_a);
+}, $input_array);
 
-$fuel_total = array_sum($fuel_a);
+$fuel_totala = array_sum($fuel_a);
+$fuel_totalb = array_sum($fuel_b);
 
-echo 'total fuel needed: '.$fuel_total;
+echo 'total fuel needed for modules only: '.$fuel_totala."\r\n";
+echo 'total fuel needed for modules + fuel only: '.$fuel_totalb;
