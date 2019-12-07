@@ -1,0 +1,535 @@
+Array
+(
+    [intersections] => Array
+        (
+            [0] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -599
+                            [y:Point:private] => 1979
+                        )
+
+                    [distance] => 2578
+                    [steps] => 112316
+                )
+
+            [1] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -3012
+                            [y:Point:private] => 5854
+                        )
+
+                    [distance] => 8866
+                    [steps] => 113202
+                )
+
+            [2] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -2844
+                            [y:Point:private] => 5836
+                        )
+
+                    [distance] => 8680
+                    [steps] => 113202
+                )
+
+            [3] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -2421
+                            [y:Point:private] => 5394
+                        )
+
+                    [distance] => 7815
+                    [steps] => 113202
+                )
+
+            [4] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -2215
+                            [y:Point:private] => 5356
+                        )
+
+                    [distance] => 7571
+                    [steps] => 113202
+                )
+
+            [5] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 224
+                            [y:Point:private] => 2271
+                        )
+
+                    [distance] => 2495
+                    [steps] => 114546
+                )
+
+            [6] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 377
+                            [y:Point:private] => 2808
+                        )
+
+                    [distance] => 3185
+                    [steps] => 115926
+                )
+
+            [7] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 377
+                            [y:Point:private] => 2976
+                        )
+
+                    [distance] => 3353
+                    [steps] => 118388
+                )
+
+            [8] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 237
+                            [y:Point:private] => 3255
+                        )
+
+                    [distance] => 3492
+                    [steps] => 120432
+                )
+
+            [9] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 98
+                            [y:Point:private] => 3542
+                        )
+
+                    [distance] => 3640
+                    [steps] => 121284
+                )
+
+            [10] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -663
+                            [y:Point:private] => 1979
+                        )
+
+                    [distance] => 2642
+                    [steps] => 122128
+                )
+
+            [11] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 224
+                            [y:Point:private] => 2523
+                        )
+
+                    [distance] => 2747
+                    [steps] => 122128
+                )
+
+            [12] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 269
+                            [y:Point:private] => 2808
+                        )
+
+                    [distance] => 3077
+                    [steps] => 122128
+                )
+
+            [13] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 435
+                            [y:Point:private] => 2976
+                        )
+
+                    [distance] => 3411
+                    [steps] => 123118
+                )
+
+            [14] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 269
+                            [y:Point:private] => 2976
+                        )
+
+                    [distance] => 3245
+                    [steps] => 124470
+                )
+
+            [15] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 237
+                            [y:Point:private] => 3111
+                        )
+
+                    [distance] => 3348
+                    [steps] => 124470
+                )
+
+            [16] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -5
+                            [y:Point:private] => 2175
+                        )
+
+                    [distance] => 2180
+                    [steps] => 124728
+                )
+
+            [17] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 237
+                            [y:Point:private] => 3290
+                        )
+
+                    [distance] => 3527
+                    [steps] => 130120
+                )
+
+            [18] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 209
+                            [y:Point:private] => 7214
+                        )
+
+                    [distance] => 7423
+                    [steps] => 154648
+                )
+
+            [19] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 370
+                            [y:Point:private] => 7301
+                        )
+
+                    [distance] => 7671
+                    [steps] => 155144
+                )
+
+            [20] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -1674
+                            [y:Point:private] => 6218
+                        )
+
+                    [distance] => 7892
+                    [steps] => 157248
+                )
+
+            [21] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -4054
+                            [y:Point:private] => -3033
+                        )
+
+                    [distance] => 7087
+                    [steps] => 157906
+                )
+
+            [22] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -3668
+                            [y:Point:private] => -2759
+                        )
+
+                    [distance] => 6427
+                    [steps] => 158814
+                )
+
+            [23] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -3668
+                            [y:Point:private] => -2949
+                        )
+
+                    [distance] => 6617
+                    [steps] => 159226
+                )
+
+            [24] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -2135
+                            [y:Point:private] => 5916
+                        )
+
+                    [distance] => 8051
+                    [steps] => 159338
+                )
+
+            [25] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -2061
+                            [y:Point:private] => 6218
+                        )
+
+                    [distance] => 8279
+                    [steps] => 159338
+                )
+
+            [26] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -4054
+                            [y:Point:private] => -2803
+                        )
+
+                    [distance] => 6857
+                    [steps] => 160906
+                )
+
+            [27] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -3956
+                            [y:Point:private] => -1728
+                        )
+
+                    [distance] => 5684
+                    [steps] => 161264
+                )
+
+            [28] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -1586
+                            [y:Point:private] => 5526
+                        )
+
+                    [distance] => 7112
+                    [steps] => 161432
+                )
+
+            [29] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -4246
+                            [y:Point:private] => -98
+                        )
+
+                    [distance] => 4344
+                    [steps] => 161702
+                )
+
+            [30] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -4000
+                            [y:Point:private] => -633
+                        )
+
+                    [distance] => 4633
+                    [steps] => 161702
+                )
+
+            [31] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -2135
+                            [y:Point:private] => 5648
+                        )
+
+                    [distance] => 7783
+                    [steps] => 162774
+                )
+
+            [32] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -4208
+                            [y:Point:private] => 892
+                        )
+
+                    [distance] => 5100
+                    [steps] => 166654
+                )
+
+            [33] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -3668
+                            [y:Point:private] => -2944
+                        )
+
+                    [distance] => 6612
+                    [steps] => 175308
+                )
+
+            [34] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -4099
+                            [y:Point:private] => -2455
+                        )
+
+                    [distance] => 6554
+                    [steps] => 177326
+                )
+
+            [35] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -4522
+                            [y:Point:private] => -2608
+                        )
+
+                    [distance] => 7130
+                    [steps] => 179320
+                )
+
+            [36] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -3961
+                            [y:Point:private] => -2803
+                        )
+
+                    [distance] => 6764
+                    [steps] => 179540
+                )
+
+            [37] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -4591
+                            [y:Point:private] => -2828
+                        )
+
+                    [distance] => 7419
+                    [steps] => 179898
+                )
+
+            [38] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -4591
+                            [y:Point:private] => -2803
+                        )
+
+                    [distance] => 7394
+                    [steps] => 180236
+                )
+
+            [39] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => -4522
+                            [y:Point:private] => -2565
+                        )
+
+                    [distance] => 7087
+                    [steps] => 181996
+                )
+
+            [40] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 1268
+                            [y:Point:private] => 5777
+                        )
+
+                    [distance] => 7045
+                    [steps] => 187700
+                )
+
+            [41] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 1053
+                            [y:Point:private] => 6243
+                        )
+
+                    [distance] => 7296
+                    [steps] => 188224
+                )
+
+            [42] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 1268
+                            [y:Point:private] => 5523
+                        )
+
+                    [distance] => 6791
+                    [steps] => 188224
+                )
+
+            [43] => Array
+                (
+                    [point] => Point Object
+                        (
+                            [x:Point:private] => 1103
+                            [y:Point:private] => 6127
+                        )
+
+                    [distance] => 7230
+                    [steps] => 188224
+                )
+
+        )
+
+)
