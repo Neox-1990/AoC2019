@@ -6,528 +6,396 @@ Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -599
-                            [y:Point:private] => 1979
+                            [x:Point:private] => 561
+                            [y:Point:private] => 0
                         )
 
-                    [distance] => 2578
-                    [steps] => 112316
+                    [distance] => 561
+                    [steps] => 20286
                 )
 
             [1] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -3012
-                            [y:Point:private] => 5854
+                            [x:Point:private] => 227
+                            [y:Point:private] => 0
                         )
 
-                    [distance] => 8866
-                    [steps] => 113202
+                    [distance] => 227
+                    [steps] => 21966
                 )
 
             [2] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -2844
-                            [y:Point:private] => 5836
+                            [x:Point:private] => 723
+                            [y:Point:private] => -842
                         )
 
-                    [distance] => 8680
-                    [steps] => 113202
+                    [distance] => 1565
+                    [steps] => 24816
                 )
 
             [3] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -2421
-                            [y:Point:private] => 5394
+                            [x:Point:private] => 675
+                            [y:Point:private] => -1040
                         )
 
-                    [distance] => 7815
-                    [steps] => 113202
+                    [distance] => 1715
+                    [steps] => 24816
                 )
 
             [4] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -2215
-                            [y:Point:private] => 5356
+                            [x:Point:private] => 926
+                            [y:Point:private] => -1467
                         )
 
-                    [distance] => 7571
-                    [steps] => 113202
+                    [distance] => 2393
+                    [steps] => 36366
                 )
 
             [5] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 224
-                            [y:Point:private] => 2271
+                            [x:Point:private] => 997
+                            [y:Point:private] => -1227
                         )
 
-                    [distance] => 2495
-                    [steps] => 114546
+                    [distance] => 2224
+                    [steps] => 37040
                 )
 
             [6] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 377
-                            [y:Point:private] => 2808
+                            [x:Point:private] => 997
+                            [y:Point:private] => -1007
                         )
 
-                    [distance] => 3185
-                    [steps] => 115926
+                    [distance] => 2004
+                    [steps] => 37522
                 )
 
             [7] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 377
-                            [y:Point:private] => 2976
+                            [x:Point:private] => 926
+                            [y:Point:private] => -1434
                         )
 
-                    [distance] => 3353
-                    [steps] => 118388
+                    [distance] => 2360
+                    [steps] => 38518
                 )
 
             [8] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 237
-                            [y:Point:private] => 3255
+                            [x:Point:private] => 838
+                            [y:Point:private] => -1612
                         )
 
-                    [distance] => 3492
-                    [steps] => 120432
+                    [distance] => 2450
+                    [steps] => 39050
                 )
 
             [9] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 98
-                            [y:Point:private] => 3542
+                            [x:Point:private] => -2153
+                            [y:Point:private] => -941
                         )
 
-                    [distance] => 3640
-                    [steps] => 121284
+                    [distance] => 3094
+                    [steps] => 40276
                 )
 
             [10] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -663
-                            [y:Point:private] => 1979
+                            [x:Point:private] => -1654
+                            [y:Point:private] => -411
                         )
 
-                    [distance] => 2642
-                    [steps] => 122128
+                    [distance] => 2065
+                    [steps] => 40276
                 )
 
             [11] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 224
-                            [y:Point:private] => 2523
+                            [x:Point:private] => -2298
+                            [y:Point:private] => -1219
                         )
 
-                    [distance] => 2747
-                    [steps] => 122128
+                    [distance] => 3517
+                    [steps] => 40276
                 )
 
             [12] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 269
-                            [y:Point:private] => 2808
+                            [x:Point:private] => -678
+                            [y:Point:private] => -183
                         )
 
-                    [distance] => 3077
-                    [steps] => 122128
+                    [distance] => 861
+                    [steps] => 40666
                 )
 
             [13] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 435
-                            [y:Point:private] => 2976
+                            [x:Point:private] => -626
+                            [y:Point:private] => -262
                         )
 
-                    [distance] => 3411
-                    [steps] => 123118
+                    [distance] => 888
+                    [steps] => 40928
                 )
 
             [14] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 269
-                            [y:Point:private] => 2976
+                            [x:Point:private] => -2298
+                            [y:Point:private] => -948
                         )
 
-                    [distance] => 3245
-                    [steps] => 124470
+                    [distance] => 3246
+                    [steps] => 41324
                 )
 
             [15] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 237
-                            [y:Point:private] => 3111
+                            [x:Point:private] => 891
+                            [y:Point:private] => -2455
                         )
 
-                    [distance] => 3348
-                    [steps] => 124470
+                    [distance] => 3346
+                    [steps] => 41890
                 )
 
             [16] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -5
-                            [y:Point:private] => 2175
+                            [x:Point:private] => 838
+                            [y:Point:private] => -2262
                         )
 
-                    [distance] => 2180
-                    [steps] => 124728
+                    [distance] => 3100
+                    [steps] => 42432
                 )
 
             [17] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 237
-                            [y:Point:private] => 3290
+                            [x:Point:private] => -1077
+                            [y:Point:private] => -183
                         )
 
-                    [distance] => 3527
-                    [steps] => 130120
+                    [distance] => 1260
+                    [steps] => 42770
                 )
 
             [18] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 209
-                            [y:Point:private] => 7214
+                            [x:Point:private] => -1094
+                            [y:Point:private] => -462
                         )
 
-                    [distance] => 7423
-                    [steps] => 154648
+                    [distance] => 1556
+                    [steps] => 42786
                 )
 
             [19] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => 370
-                            [y:Point:private] => 7301
+                            [x:Point:private] => -626
+                            [y:Point:private] => -456
                         )
 
-                    [distance] => 7671
-                    [steps] => 155144
+                    [distance] => 1082
+                    [steps] => 44218
                 )
 
             [20] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -1674
-                            [y:Point:private] => 6218
+                            [x:Point:private] => -1094
+                            [y:Point:private] => -823
                         )
 
-                    [distance] => 7892
-                    [steps] => 157248
+                    [distance] => 1917
+                    [steps] => 44332
                 )
 
             [21] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -4054
-                            [y:Point:private] => -3033
+                            [x:Point:private] => -626
+                            [y:Point:private] => -188
                         )
 
-                    [distance] => 7087
-                    [steps] => 157906
+                    [distance] => 814
+                    [steps] => 45072
                 )
 
             [22] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -3668
-                            [y:Point:private] => -2759
+                            [x:Point:private] => -1094
+                            [y:Point:private] => -857
                         )
 
-                    [distance] => 6427
-                    [steps] => 158814
+                    [distance] => 1951
+                    [steps] => 47346
                 )
 
             [23] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -3668
-                            [y:Point:private] => -2949
+                            [x:Point:private] => -1443
+                            [y:Point:private] => -954
                         )
 
-                    [distance] => 6617
-                    [steps] => 159226
+                    [distance] => 2397
+                    [steps] => 48238
                 )
 
             [24] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -2135
-                            [y:Point:private] => 5916
+                            [x:Point:private] => -1094
+                            [y:Point:private] => -500
                         )
 
-                    [distance] => 8051
-                    [steps] => 159338
+                    [distance] => 1594
+                    [steps] => 48952
                 )
 
             [25] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -2061
-                            [y:Point:private] => 6218
+                            [x:Point:private] => -682
+                            [y:Point:private] => -601
                         )
 
-                    [distance] => 8279
-                    [steps] => 159338
+                    [distance] => 1283
+                    [steps] => 49124
                 )
 
             [26] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -4054
-                            [y:Point:private] => -2803
+                            [x:Point:private] => -1351
+                            [y:Point:private] => -823
                         )
 
-                    [distance] => 6857
-                    [steps] => 160906
+                    [distance] => 2174
+                    [steps] => 49124
                 )
 
             [27] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -3956
-                            [y:Point:private] => -1728
+                            [x:Point:private] => -1517
+                            [y:Point:private] => -500
                         )
 
-                    [distance] => 5684
-                    [steps] => 161264
+                    [distance] => 2017
+                    [steps] => 50706
                 )
 
             [28] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -1586
-                            [y:Point:private] => 5526
+                            [x:Point:private] => -1570
+                            [y:Point:private] => -411
                         )
 
-                    [distance] => 7112
-                    [steps] => 161432
+                    [distance] => 1981
+                    [steps] => 50990
                 )
 
             [29] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -4246
-                            [y:Point:private] => -98
+                            [x:Point:private] => -1443
+                            [y:Point:private] => -948
                         )
 
-                    [distance] => 4344
-                    [steps] => 161702
+                    [distance] => 2391
+                    [steps] => 52070
                 )
 
             [30] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -4000
-                            [y:Point:private] => -633
+                            [x:Point:private] => -1351
+                            [y:Point:private] => -857
                         )
 
-                    [distance] => 4633
-                    [steps] => 161702
+                    [distance] => 2208
+                    [steps] => 52070
                 )
 
             [31] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -2135
-                            [y:Point:private] => 5648
+                            [x:Point:private] => -626
+                            [y:Point:private] => -601
                         )
 
-                    [distance] => 7783
-                    [steps] => 162774
+                    [distance] => 1227
+                    [steps] => 52070
                 )
 
             [32] => Array
                 (
                     [point] => Point Object
                         (
-                            [x:Point:private] => -4208
-                            [y:Point:private] => 892
+                            [x:Point:private] => -900
+                            [y:Point:private] => -601
                         )
 
-                    [distance] => 5100
-                    [steps] => 166654
-                )
-
-            [33] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => -3668
-                            [y:Point:private] => -2944
-                        )
-
-                    [distance] => 6612
-                    [steps] => 175308
-                )
-
-            [34] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => -4099
-                            [y:Point:private] => -2455
-                        )
-
-                    [distance] => 6554
-                    [steps] => 177326
-                )
-
-            [35] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => -4522
-                            [y:Point:private] => -2608
-                        )
-
-                    [distance] => 7130
-                    [steps] => 179320
-                )
-
-            [36] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => -3961
-                            [y:Point:private] => -2803
-                        )
-
-                    [distance] => 6764
-                    [steps] => 179540
-                )
-
-            [37] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => -4591
-                            [y:Point:private] => -2828
-                        )
-
-                    [distance] => 7419
-                    [steps] => 179898
-                )
-
-            [38] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => -4591
-                            [y:Point:private] => -2803
-                        )
-
-                    [distance] => 7394
-                    [steps] => 180236
-                )
-
-            [39] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => -4522
-                            [y:Point:private] => -2565
-                        )
-
-                    [distance] => 7087
-                    [steps] => 181996
-                )
-
-            [40] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => 1268
-                            [y:Point:private] => 5777
-                        )
-
-                    [distance] => 7045
-                    [steps] => 187700
-                )
-
-            [41] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => 1053
-                            [y:Point:private] => 6243
-                        )
-
-                    [distance] => 7296
-                    [steps] => 188224
-                )
-
-            [42] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => 1268
-                            [y:Point:private] => 5523
-                        )
-
-                    [distance] => 6791
-                    [steps] => 188224
-                )
-
-            [43] => Array
-                (
-                    [point] => Point Object
-                        (
-                            [x:Point:private] => 1103
-                            [y:Point:private] => 6127
-                        )
-
-                    [distance] => 7230
-                    [steps] => 188224
+                    [distance] => 1501
+                    [steps] => 54188
                 )
 
         )
